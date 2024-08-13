@@ -1,7 +1,5 @@
 # Task
 
-## Task 1 : What is git? 
-
 ## Task 0 : preparatory work
 
 ### Brief
@@ -15,4 +13,4 @@
 3. Todesk : 用于让我操纵你们的电脑, 远程解决问题
 4. Vscode : 后续用的最多的编辑器
 5. VScode的使用优化插件集 : 自己去网上搜
-6. Typora : 用于编辑和查看MarkDown文件 (破解版我会发在群里)
+6. Typora : 用于编辑和查看MarkDown文件 (破解版我会发在群里) 
