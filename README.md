@@ -2,18 +2,32 @@
 
 ### Resource
 
-- [Markdown 官方教程](https://markdown.com.cn/) (推荐)
+- 视频 : [【GeekHour】Git教程_bilibili](https://www.bilibili.com/video/BV1HM411377j/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=0f33e382bdf5885af845e6f27b0c291d) (推荐)
 
-- [Markdown 文档基础语法（基于 IDEA/Typora 讲解最新版）4K蓝光画质 程序员必备技能 强烈推荐_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1eJ4m157kC/?spm_id_from=333.337.search-card.all.click)
-
+- 文档 : [Git教学文档](Git.md) (供快速查阅使用, Ctrl + 点击蓝字可以快速打开)
 - 提问次数三次
 
 ### Homework
 
-- 使用markdown文件, 记录下来你markdown的学习过程
-- 尝试将你最后的制作成功的学习笔记, 在Typora上导出为各种格式, 并浏览这些格式的文件在对应的编辑器上的显示效果, 截图存放在最后提交文件中 (每个格式都尝试一遍)
-- 时间限制 : 2024/08/15 - 2024/08/20
-- 提交方式 : 完成以后将内容md文件和转化出来的文件(其中创建一个images文件夹, 用于放截图)打成压缩包发到tianyufang978@gmail.com, (邮件名和压缩包名为姓名)
+- 编写md文档回答下列问题 (禁止使用GPT帮助, 这些问题在学完以后回答并不困难)
+
+  - 什么是Git ?
+
+  - Git是用来干什么的 ?
+
+  - Git和GitHub到底是什么关系 ?
+
+  - 对于我们团队来说, Git的作用是什么
+
+  - 如果我们团队需要使用Git协同工作, 我们该怎么做
+- 使用md记录下来自己的学习过程  (供未来忘记了可以快速查阅, 以及加深当下的理解)
+
+- 创建属于自己github仓库, 并将这次作业的内容通过通过git bash上传上去, 需要从init开始, 通过remote将本地仓库连接到给远程仓库
+
+### Submission
+
+- 提交方式 : 将存有作业的github仓库地址发送到邮箱tianyufang978@gmail.com, 邮件名为姓名, 主题是Git
+- 时间 : 2024/08/21(06:00) - 2024/08/25 (23:59)
 
 # RULE
 
