@@ -4,7 +4,7 @@
 
 - 视频 : [【GeekHour】Git教程_bilibili](https://www.bilibili.com/video/BV1HM411377j/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=0f33e382bdf5885af845e6f27b0c291d) (推荐)
 
-- 文档 : [Git教学文档](Git.md) (供快速查阅使用, Ctrl + 点击蓝字可以快速打开)
+- 文档 : [Git教学文档](.\Tasks\Task_2_git\Git.md) (供快速查阅使用, Ctrl + 点击蓝字可以快速打开)
 - 提问次数三次
 
 ### Homework
